@@ -1,0 +1,11 @@
+__pycache__/
+*.xlsx
+*.xls
+*.csv
+.vscode/
+env/
+venv/
+build/
+dist/
+*.spec
+*.pyc
